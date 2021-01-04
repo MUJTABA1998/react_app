@@ -7,6 +7,8 @@ function App() {
       <p>App Deployed on Surge</p>
       <br/>
       <button>Happy Hacking</button>
+      <hr/>
+      <a href="#">Learn Raect</a>
     </div>
   );
 }
