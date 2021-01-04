@@ -39,7 +39,7 @@ jobs:
           cmd: install
           
       - name: build folder
-        run: yarn build
+        run: npm run build
         
 
       # Runs a set of commands using the runners shell
