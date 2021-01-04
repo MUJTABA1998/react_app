@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       Happy Hacking
       <p>App Deployed on Surge</p>
+      <br/>
+      <button>Happy Hacking</button>
     </div>
   );
 }
