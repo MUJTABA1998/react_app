@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Mern Stack Development
+      The way to Mern Stack Development
     </div>
   );
 }
