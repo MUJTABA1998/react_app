@@ -34,7 +34,7 @@ jobs:
           
       # Create production version
       - name: build 
-        run: npm run build
+        run: yarn build
         
 
       # Runs a set of commands using the runners shell
