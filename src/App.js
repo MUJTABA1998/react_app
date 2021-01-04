@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      The way to Mern Stack Development
+      Happy Hacking
+      <p>App Deployed on Surge</p>
     </div>
   );
 }
